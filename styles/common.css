@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.contanier{
+    width: 100%;
+    height: auto;
+}
+.secs{
+    display: flex;
+    flex-wrap: wrap;
+}
+.opensans{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.sanserif{
+    font-family: sans-serif;
+}
+.textbold{
+    font-weight: bold;
+}
+.textlighter{
+  font-weight: lighter;
+}
+.textnormal{
+    font-weight: normal;
+}
+.textitalic{
+    font-style: italic;
+}
+.texttransform{
+    text-transform: uppercase;
+}
+.font36{
+    font-size: 36px;
+}
+.font16{
+    font-size: 16px;
+}
+.font96{
+    font-size: 96px;
+}
+.font24{
+    font-size: 24px;
+}
+.font60{
+    font-size: 60px;
+}
+.font18{
+    font-size: 18px;
+}
+.font14{
+    font-size: 14px;
+}
+.font20{
+    font-size: 20px;
+}
+.font13{
+    font-size: 12.8px;
+}
